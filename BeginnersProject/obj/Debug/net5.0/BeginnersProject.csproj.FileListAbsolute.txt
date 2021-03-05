@@ -1,0 +1,16 @@
+C:\Users\sagep\RiderProjects\BeginnersProject\BeginnersProject\bin\Debug\net5.0\BeginnersProject.exe
+C:\Users\sagep\RiderProjects\BeginnersProject\BeginnersProject\bin\Debug\net5.0\BeginnersProject.deps.json
+C:\Users\sagep\RiderProjects\BeginnersProject\BeginnersProject\bin\Debug\net5.0\BeginnersProject.runtimeconfig.json
+C:\Users\sagep\RiderProjects\BeginnersProject\BeginnersProject\bin\Debug\net5.0\BeginnersProject.runtimeconfig.dev.json
+C:\Users\sagep\RiderProjects\BeginnersProject\BeginnersProject\bin\Debug\net5.0\BeginnersProject.dll
+C:\Users\sagep\RiderProjects\BeginnersProject\BeginnersProject\bin\Debug\net5.0\ref\BeginnersProject.dll
+C:\Users\sagep\RiderProjects\BeginnersProject\BeginnersProject\bin\Debug\net5.0\BeginnersProject.pdb
+C:\Users\sagep\RiderProjects\BeginnersProject\BeginnersProject\obj\Debug\net5.0\BeginnersProject.csprojAssemblyReference.cache
+C:\Users\sagep\RiderProjects\BeginnersProject\BeginnersProject\obj\Debug\net5.0\BeginnersProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagep\RiderProjects\BeginnersProject\BeginnersProject\obj\Debug\net5.0\BeginnersProject.AssemblyInfoInputs.cache
+C:\Users\sagep\RiderProjects\BeginnersProject\BeginnersProject\obj\Debug\net5.0\BeginnersProject.AssemblyInfo.cs
+C:\Users\sagep\RiderProjects\BeginnersProject\BeginnersProject\obj\Debug\net5.0\BeginnersProject.csproj.CoreCompileInputs.cache
+C:\Users\sagep\RiderProjects\BeginnersProject\BeginnersProject\obj\Debug\net5.0\BeginnersProject.dll
+C:\Users\sagep\RiderProjects\BeginnersProject\BeginnersProject\obj\Debug\net5.0\ref\BeginnersProject.dll
+C:\Users\sagep\RiderProjects\BeginnersProject\BeginnersProject\obj\Debug\net5.0\BeginnersProject.pdb
+C:\Users\sagep\RiderProjects\BeginnersProject\BeginnersProject\obj\Debug\net5.0\BeginnersProject.genruntimeconfig.cache
